@@ -3,3 +3,4 @@
 local spellids = [
 	
 ]
+print('It\'s working!')
