@@ -9,4 +9,5 @@
 ## X-Curse-Project-ID: crewk_moan
 ## X-Curse-Repository-ID: wow/crewk_moan/mainline
 
+Crewk_Moan.xml
 Crewk_Moan.lua
